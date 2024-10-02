@@ -35,7 +35,7 @@ export default function Home() {
 
         </div>
       </div>
-      <div className=" asbolute bottom-10 z-[20] right-5 flex-col md:hidden gap-5">
+      <div className=" absolute bottom-10 z-[20] right-5 flex-col md:hidden gap-5">
         <Link href="/my-skills" className="rounded-[20px]  group bg-blue-500 hover:bg-blue-400 px-5 py-3 text-lg text-white max-w-[200px]">
           learn more
         </Link>
@@ -58,7 +58,7 @@ export default function Home() {
           height={300}
           width={300}
           className="absolute right-55 top-40" />
-        <Image src="/cliff.webp" alt="cliff" width={480} markerHeight={480} />
+        <Image src="/cliff.webp" alt="cliff" width={480} height={480} />
       </div>
 
       <div
