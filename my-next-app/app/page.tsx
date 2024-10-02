@@ -10,7 +10,7 @@ export default function Home() {
             Wellcome To My Portfolio
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               {" "}
-              SUGANDHANJR
+              SUGANDHAN
             </span>
           </h1>
           <p className="text-gray-200 hidden md:block">
